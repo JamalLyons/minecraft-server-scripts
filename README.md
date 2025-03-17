@@ -4,8 +4,9 @@ Scripts to help setup your Minecraft client for joining my server. If you want t
 
 ## Server info:
 
+- IP: `mc.jamallyons.com`
 - MC Version: `1.21.4`
-- Mod Loader: Forge
+- Mod Loader: `forge`
 
 ## Mods
 
